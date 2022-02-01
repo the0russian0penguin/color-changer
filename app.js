@@ -1,4 +1,4 @@
-const colors = ["black", "white", "black", "white"];
+const colors = ["black", "white", "green", "red"];
 const btn = document.getElementById("btn");
 const color = document.querySelector(".color");
 
